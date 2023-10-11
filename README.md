@@ -1,6 +1,8 @@
 
 # Dashboard
-![Ecommerce-Store-Data-Analysis-dashboard](https://user-images.githubusercontent.com/60383145/222998126-5185133f-6f7b-4bda-bb44-494a7585c734.# E-Commerce Store Annual Sales Report 2022
+![17 1](https://github.com/mario21snow/Ecommerce-Store-Data-Analysi/assets/102954942/5547f46c-9fe8-451c-91a9-0c79dcbf2e12)
+
+Annual Sales Report 2022
 
 ## Objective
 
